@@ -37,7 +37,17 @@ h2.title {
   margin-top: 7px;
 }
 p.name {
-  font-size: ;
+  font-size: 64px;
+  font-family: 'Arial Black', sans-serif;
+  line-height: 54px;
+  color: white;
+}
+p.surname {
+  font-size: 36px;
+  font-family: 'Arial Black', sans-serif;
+  line-height: 26px;
+  color: #04A63E;
+  padding-left: 3px;
 }
 
 @media screen and (max-width: 502px) {
