@@ -3,9 +3,6 @@
   src: url(./assest/Playtoy.ttf);
 }
 
-.app {
-  margin-top: 42px;
-}
 
 .journal {
   width: 100%;
@@ -38,16 +35,16 @@ h2.title {
 }
 p.name {
   font-size: 64px;
-  font-family: 'Arial Black', sans-serif;
+  font-family: "Arial Black", sans-serif;
   line-height: 54px;
   color: white;
   font-weight: 900;
 }
 p.surname {
   font-size: 36px;
-  font-family: 'Arial Black', sans-serif;
+  font-family: "Arial Black", sans-serif;
   line-height: 26px;
-  color: #04A63E;
+  color: #04a63e;
   padding-left: 3px;
   font-weight: 900;
 }
@@ -64,4 +61,13 @@ p.surname {
     text-align: center;
     font-size: 60px;
   }
+}
+
+.background {
+  margin-top: 100vh;
+  background: url(./assest/journals.png) no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
 }
