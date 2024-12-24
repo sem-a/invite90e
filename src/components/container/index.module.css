@@ -1,0 +1,12 @@
+.container {
+  margin: 0 auto;
+  width: 502px;
+  border:thick double black;
+}
+
+@media screen and (max-width: 502px) {
+  .container {
+    width: 100%;
+    border: none;
+  }  
+}
