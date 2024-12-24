@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.280aff1c.css",
+    "main.js": "/static/js/main.ec4e1e0c.js",
+    "static/media/background.jpg": "/static/media/background.df87ba87cf8a4e8507b8.jpg",
+    "static/media/Playtoy.ttf": "/static/media/Playtoy.99ce5045006453f53f32.ttf",
+    "index.html": "/index.html",
+    "main.280aff1c.css.map": "/static/css/main.280aff1c.css.map",
+    "main.ec4e1e0c.js.map": "/static/js/main.ec4e1e0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.280aff1c.css",
+    "static/js/main.ec4e1e0c.js"
+  ]
+}
